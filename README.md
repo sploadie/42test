@@ -1,4 +1,4 @@
 42test
 ======
 
-For bs at 42.
+For 42 reasons.
